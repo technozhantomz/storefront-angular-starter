@@ -1,7 +1,7 @@
 export const environment = {
     production: true,
-    apiHost: 'https://smart.homepesa.org',
-    apiPort: 443,
+    apiHost: 'http://localhost',
+    apiPort: 300,
     shopApiPath: 'shop-api',
     baseHref: '/',
     tokenMethod: 'bearer',
